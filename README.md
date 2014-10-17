@@ -13,6 +13,7 @@ Ubuntu/Debian:
 CentOS:
   Download timeout rpm for CentOS5.x:
   wget ftp://ftp.pbone.net/mirror/ftp5.gwdg.de/pub/opensuse/repositories/home:/crt0solutions:/extras/CentOS_CentOS-5/x86_64/timeout-8.4-20.3.crt0.x86_64.rpm
+  
   rpm -ivh timeout-8.4-20.3.crt0.x86_64.rpm 
 
 (2) Python2.6+ ENV
