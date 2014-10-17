@@ -15,13 +15,15 @@ CentOS:
 (2) Python2.6+ ENV
 
 
-(2)Usage:
+2. Usage:
 python sslv3_leak_check.py
 
 The script use command to check sslv3 protocol:
 # openssl s_client -connect <ip>:<port> -ssl3
 
-(3) result:
-ip list of sslv3 leak output file: sslv3ips
-good iplist of sslv3 output file: nosslv3ips
+3. Check result:
+ip list of sslv3 leak output file: 
+  sslv3ips
+good iplist of sslv3 output file: 
+nosslv3ips
 
