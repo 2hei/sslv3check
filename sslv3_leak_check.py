@@ -2,7 +2,7 @@
 #
 # Script Name: sslv3_leak_check.py
 # Author: fisherman
-# Mail: yu2hei@163.com
+# Mail: yu2hei@gmail.com
 # Date: 20141015
 # Version: 1.0
  
