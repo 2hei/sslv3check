@@ -26,8 +26,8 @@ The script use command to check sslv3 protocol:
 # openssl s_client -connect <ip>:<port> -ssl3
 
 3. Check result:
-ip list of sslv3 leak output file: 
-  sslv3ips
-good iplist of sslv3 output file: 
-nosslv3ips
+
+ip list of sslv3 leak output file: sslv3ips
+  
+good iplist of sslv3 output file: nosslv3ips
 
